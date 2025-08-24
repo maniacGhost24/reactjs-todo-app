@@ -1,4 +1,9 @@
-# React + Vite
+# To-Do App
+
+Started learning ReactJS for the front-end framework.
+Built this first Todo-app leveraging react js learning about basics like components, local databases, hooks etc.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
