@@ -3,7 +3,7 @@
 Started learning ReactJS for the front-end framework.
 Built this first Todo-app leveraging react js learning about basics like components, local databases, hooks etc.
 
-Deployed using netlify, link to live site: rkaus-todo.netlify.app
+Deployed using netlify, link to live site: [rkaus-todo](https://rkaus-todo.netlify.app)
 
 ## React + Vite
 
