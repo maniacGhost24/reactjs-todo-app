@@ -3,6 +3,8 @@
 Started learning ReactJS for the front-end framework.
 Built this first Todo-app leveraging react js learning about basics like components, local databases, hooks etc.
 
+Deployed using netlify, link to live site: rkaus-todo.netlify.app
+
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
